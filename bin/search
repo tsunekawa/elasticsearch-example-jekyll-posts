@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+#-*- coding:utf-8 -*-
+require_relative './../config/init'
+
+query = ARGV[0]
+
+client = Elasticsearch::Client.new log: false
+client.transport.reload_connections!
+result =  client.search({
+  body: {
+    query: {
+      multi_match: {
+        query: query,
+        fields: ["title", "content"],
+      }
+    },
+    highlight: {
+      fields: {
+        title: {},
+        content: {}
+      },
+      pre_tags: [HIGHLIGHT_TAG],
+      post_tags: [HIGHLIGHT_CLOSE]
+    }
+  }
+})
+
+count = result["hits"]["total"]
+items = result["hits"]["hits"].lazy.map do |item|
+  {:id=>item["_id"], :title=>item["_source"]["title"], :score=>item["_score"], :snippet=>item["highlight"].values.join("...").gsub("\n", "\\n")}
+end
+
+puts "hits: #{count}"
+items.each_with_index do |item, i|
+  puts "#{i}: #{item[:title]} (score: #{item[:score]})"
+  puts "\n"
+  puts "  #{item[:snippet]}"
+  puts "\n"
+end

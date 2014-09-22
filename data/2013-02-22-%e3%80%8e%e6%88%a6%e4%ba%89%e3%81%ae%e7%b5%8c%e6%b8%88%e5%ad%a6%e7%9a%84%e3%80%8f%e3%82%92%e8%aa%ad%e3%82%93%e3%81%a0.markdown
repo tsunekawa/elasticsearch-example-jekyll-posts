@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: "『戦争の経済学』を読んだ"
+author: kunimiya
+date: '2013-02-22 07:36:31 +0900'
+date_gmt: '2013-02-21 22:36:31 +0900'
+categories:
+- "『状況に埋め込まれたブログ』"
+tags:
+- "書評"
+---
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4862380573/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41daDbeKqjL._SL160_.jpg" alt="戦争の経済学" style="border: none;" /></a></div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4862380573/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">戦争の経済学</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.02.21</div>
+</div>
+<div class="amazlet-detail">ポール・ポースト <br />バジリコ <br />売り上げランキング: 60,300</div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4862380573/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div>
+</div>
+</div>
+<div class="amazlet-footer" style="clear: left"></div>
+</div>
+<p>『戦争の経済学』は戦争を事業としてみたときに、それが社会に与える経済的影響をミクロ・マクロ両方の視点から分析した書籍である。要するに「戦争は景気対策になる」という人によっては不道徳に感じる言説にマジレスしたのが本書の内容である。</p>
+<p>本書の扱う範囲は非常に広い。まず前半ではアメリカの戦争(第一次世界大戦・第二次世界大戦・ベトナム戦争・湾岸戦争・イラク戦争)のそれぞれのケースでのアメリカの失業率やGDPを分析して、戦争の経済効果を分析していく。そして戦争が景気対策となりうる条件を導き出していくのだが、この過程で戦争というものが現代に近づくにつれて経済を刺激する効果が少なくなっていくことがわかる。冒頭に述べた「戦争は景気対策になる」という言説が現状を反映しないことを示すわけだ。</p>
+<p>そして本書の後半では戦争にまつわるトピックを経済学的に読み解く内容になっていく。例えば、徴兵制度は経済学的には効率的か否か、兵器の産業についての市場は機能しているのか、テロが経済学的に合理的かといった具合に。</p>
+<p>本書の凄いところは倫理をまったく経由せずに戦争の効果を考察し、一般に流通する言説に対する冷静な批判を行うことにある。この点については人によって受け取り方は違うかもしれないが、私は多角的な視点を得るのに非常に役に立つと感じた。</p>
+<p>翻訳者の山形浩生氏の解説にあるように本書は経済学の入門書としても読める。GDPや機会費用、フィリップス曲線といった基礎的な用語について分かりやすい説明があるので、私のような経済学の門外漢にとっては大変有用だった。</p>
+<p>日本はこれから安全保障と財政の転換について建設的な議論が求められていくと思う。その両方について同時に学ぶ資料として本書は適しているだろう。私も、本書からはじまって勉強していきたい。</p>

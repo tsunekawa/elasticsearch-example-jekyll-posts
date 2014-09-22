@@ -1,0 +1,47 @@
+#!/usr/bin/env ruby
+#-*- coding:utf-8 -*-
+require_relative './../config/init'
+
+# load markdown files
+def load_posts(dirpath)
+  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, tables: true)
+  posts    = Array.new
+
+  Dir.glob(dirpath) do |filepath|
+    # read a markdown file
+    next unless filepath =~ /.*\.(?:markdown|md)$/
+    slag = filepath.split("/").last.to_url
+    text = File.read(filepath)
+
+    # parse markdown file
+    yfm, content = text.scan(/---\n((?:.|\n)*)\n---\n((?:.|\n)*)/).flatten
+    meta_data = YAML.load(yfm)
+    html      = markdown.render(content)
+
+    # add a post data
+    posts << {:id=> slag, :meta=>meta_data, :content=> Nokogiri::HTML(html).text}
+  end
+
+  posts
+end
+
+# format posts
+posts = load_posts("./data/*").lazy.map do |post|
+  meta = post[:meta]
+  unless meta.nil?
+    title = meta["title"] || ""
+  end
+
+  content = post[:content]
+
+  {:id=>post[:id], :body=>{:title=>title, :content=>content}}
+end
+
+# index posts
+client = Elasticsearch::Client.new log: true
+client.transport.reload_connections!
+posts.each do |post|
+  post[:index] = "blog"
+  post[:type ] = "post"
+  client.index post
+end

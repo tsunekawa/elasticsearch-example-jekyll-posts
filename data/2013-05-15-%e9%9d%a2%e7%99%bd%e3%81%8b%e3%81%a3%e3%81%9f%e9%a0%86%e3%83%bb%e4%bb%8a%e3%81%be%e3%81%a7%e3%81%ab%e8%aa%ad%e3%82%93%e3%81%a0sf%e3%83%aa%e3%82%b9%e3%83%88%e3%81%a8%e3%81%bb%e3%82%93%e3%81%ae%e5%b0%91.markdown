@@ -1,0 +1,295 @@
+---
+layout: post
+status: publish
+published: true
+title: "面白かった順・今までに読んだSFリストとほんの少しの感想文"
+author: kunimiya
+date: '2013-05-15 23:35:58 +0900'
+date_gmt: '2013-05-15 14:35:58 +0900'
+categories:
+- "『状況に埋め込まれたブログ』"
+tags: []
+---
+<p>もうすでに過去の出来事になりつつあるが、<a href="http://booklist.hatenablog.com/entry/20130514SF">はてな界隈で俺が考えるSF小説ベストN選みたいな大喜利</a>が盛り上がっていた。 そこで私も、といきたいところだけれどもSF小説は好きだがアシモフなんか1冊も読んでいない外道なのでとても手をだせない。</p>
+<p>そこで、せめて今まで読んだことのある数少ないSF小説を個人的に面白かった順に並べて振り返ってみた。</p>
+<p>作品の質を客観的に評価しているわけではなく、自分の感性と合ったか否かで順番を決めているうえ、コメントもその作品の内容をまともに説明していないので本を探すにあたっては何の参考にもならないと思う。はてブでSFタグを追いまくってる酔狂な人で初心者をぶっ叩きたい人用。</p>
+<h2>01. ジェイムズ・P・ホーガン『星を継ぐもの』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/448866301X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GMQM4MC4L._SL160_.jpg" alt="星を継ぐもの (創元SF文庫)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/448866301X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">星を継ぐもの (創元SF文庫)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      ジェイムズ・P・ホーガン <br />東京創元社 <br />売り上げランキング: 745
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/448866301X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>『12人の怒れる男たち』SF版という感じ。私的にはこの作品のことを科学小説ならず科学者小説と呼んでいる。この作品を読んで、科学というのは一人の天才が生み出すわけでもモノリスみたいな絶対的な存在ではなくて、無数の人々の論争によって積み上げられてきた泥臭いものなのだと考えるようになった。大学生は読むといいと思う。研究室で誰かと自分の考えていることを議論したくなる。</p>
+<h2>02. 伊藤計劃『ハーモニー』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415031019X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/21JMwi4R89L._SL160_.jpg" alt="ハーモニー (ハヤカワ文庫JA)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415031019X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">ハーモニー (ハヤカワ文庫JA)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      伊藤 計劃 <br />早川書房 <br />売り上げランキング: 3,918
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415031019X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>伊藤計劃をいきなり２位に挙げるのはあまりにもミーハーかもしれないけれど、面白かったのだからしょうがない。この作品はディストピア小説なのかユートピア小説なのか、正直なところ私にはわからない。この作品の描写の幾つかはまるで現代の日本をそのまま書いているかのようだ。だから、この小説をディストピア小説と呼ぶなら現代も十分ディストピアだということになる。ETMLにしても、テレビ番組の笑い声の効果音と一体何が違うのだろうか？</p>
+<h2>03. 伊藤計劃『虐殺器官』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150309841/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41prk9iwXpL._SL160_.jpg" alt="虐殺器官 (ハヤカワ文庫JA)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150309841/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">虐殺器官 (ハヤカワ文庫JA)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      伊藤 計劃 <br />早川書房 <br />売り上げランキング: 2,671
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150309841/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>虐殺器官をはじめて読んだとき、人間の虐殺の本能を呼び起こされる器官があるというアイデアは面白いと思いつつも、現実にはありえないものだと思った。しかしその後のロンドンの唐突な暴動などを見てからというもの、こういう器官は本当に存在するんじゃないかと疑うようになった。人間が理性的でいられる世界というのは案外脆くて、それを破ってしまうリスクはいつでもどこかに存在する。</p>
+<h2>04. ウィリアム・ギブスン＆ブルース・スターリング『ディファレンス・エンジン』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150116776/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51n5MTCL-0L._SL160_.jpg" alt="ディファレンス・エンジン〈上〉 (ハヤカワ文庫SF)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150116776/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">ディファレンス・エンジン〈上〉 (ハヤカワ文庫SF)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      ウィリアム ギブスン ブルース スターリング <br />早川書房 <br />売り上げランキング: 36,357
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150116776/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>ディファレンス・エンジンは計算能力がいかに文明の発展を加速させるかを巧みな想像力でみせてくれた偉大な作品。作中では蒸気機関のコンピューターの実用化という現実には起きなかったひとつの事業を通じて、ドミノ倒しのようにあらゆる技術や社会改革に火がつく。この作品を読んでからSFにおいては未来を描くことよりも、その未来を作り出す原動力は何なのかを問うほうが重要なのではないかと思うようになった。</p>
+<h2>05. テッド・チャン『あなたの人生の物語』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150114587/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51191C0153L._SL160_.jpg" alt="あなたの人生の物語 (ハヤカワ文庫SF)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150114587/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">あなたの人生の物語 (ハヤカワ文庫SF)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      テッド・チャン <br />早川書房 <br />売り上げランキング: 42,722
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150114587/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>『あなたの人生の物語』に収録される作品の多くは私たちの生きている世界とは何の関係性もなさそうな、ある意味ファンタジーに近いような世界観だ。「地獄とは神の不在なり」という作品は、もし神や天使が実在するとしたらというSFらしさからはかけ離れた設定からスタートする。でもテッド・チャンの書く作品は間違いなくSFだと直感的に感じる。それは『ディファレンス・エンジン』の項で書いたように、ある世界を支える原動力とは何かを鋭く突いているからだと思う。</p>
+<h2>06. 円城塔『Self-Reference Engine』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415030985X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41nQiE2nAgL._SL160_.jpg" alt="Self-Reference ENGINE (ハヤカワ文庫JA)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415030985X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Self-Reference ENGINE (ハヤカワ文庫JA)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      円城 塔 <br />早川書房 <br />売り上げランキング: 24,609
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415030985X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>円城塔の作品はSFに分類してよいものかどうか迷う。私には円城塔の作品は科学的な雰囲気を匂わせたメタフィクションものに思える。それでも私にとってSFと聞くと円城塔の作品が必ず浮かぶ。それは多分物理の試験なんかで「摩擦の存在しない」といきなり仮定されたときの感覚に似ている。机上の空論を展開するには机を一旦まっさらにしないと大胆な説を打ち立てられない。そういう常識をまっさらにして何かを生み出す力が、円城塔の作品から感じる。SFは論理的な展開を必要とする一方で自由な想像力も不可欠だという二面性を思い出させるのに役立つ作品群だと思う。</p>
+<h2>07. グレッグ・イーガン『しあわせの理由』(グレッグ・イーガン/著)</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415011451X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Y8BNNFB7L._SL160_.jpg" alt="しあわせの理由 (ハヤカワ文庫SF)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415011451X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">しあわせの理由 (ハヤカワ文庫SF)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      グレッグ イーガン <br />早川書房 <br />売り上げランキング: 109,331
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415011451X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>グレッグ・イーガンの作品は難しすぎてよく理解できないところがたくさんあるのだけれど、コンセプトのようなものははっきりとわかることがある。『しあわせの理由』は自我が一貫したたしかなものであるという常識的感覚を突き崩す意図が顕著だ。そしてそれを理屈ではなく描写によって分からせる。あまりにも難解で頭を抱える読者が多いのにもかかわらずイーガンが称賛されるのは、むしろさらっと常識を突き崩す描写を挟み込むところに理由があるのではないだろうか。</p>
+<h2>08. ジェイムズ・ティプトリー・Jr『たったひとつの冴えたやりかた』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150107394/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51YM52wPC3L._SL160_.jpg" alt="たったひとつの冴えたやりかた (ハヤカワ文庫SF)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150107394/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">たったひとつの冴えたやりかた (ハヤカワ文庫SF)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      ジェイムズ・ティプトリー・ジュニア <br />早川書房 <br />売り上げランキング: 6,607
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150107394/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>『たったひとつの冴えたやりかた』は4つの「決意」について書かれた本だと思う。1つはある少女の、2つ目はある男の、3つ目はある船長の、そして4つ目は作者自身の決意である。4つ目がなんなのかについてはあとがきを読めば分かる。この短篇集の作品は、ある大学生カップルに老いた司書が見せる歴史的資料という体裁をとっている。その司書がこんなことを言う。</p>
+<blockquote>
+<p>昔からヒューマンのあいだでは、ファクト／フィクションと名付けたものに大きな人気がある。つまり、重要な事件や時代をとりあげて、既知のディティールのすべてをそこにぶちこみ、ドラマティックな物語に再構成するわけだ。それによって歴史が記憶しやすくなると、彼らは主張する。わたしもその通りだと思う。 (p.8)</p>
+</blockquote>
+<p>作者はこれを書いた時70歳という高齢だったそうだが、作中の司書同様に読者に対して何がしかを教えてから去りたいと思ったのかもしれない。この世界を支えてきた原動力は技術や理論だけではないのだよ、と。</p>
+<h2>09: グレッグ・イーガン『順列都市』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150112894/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/510GECFZ41L._SL160_.jpg" alt="順列都市〈上〉 (ハヤカワ文庫SF)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150112894/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">順列都市〈上〉 (ハヤカワ文庫SF)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      グレッグ イーガン <br />早川書房 <br />売り上げランキング: 19,988
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150112894/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>『順列都市』は正直、塵理論あたりからこれはナンセンスギャグの一種なのか真面目な話なのか全然わからなくなってくる。なので私は順列都市の面白さはあまり理解できていないと思う。それでも比較的上位に挙げたのは仮想世界に住む人間の描写に一つ一つが斬新に感じる(現実との時間の流れの遅さとか)一方で計算能力を一時的に購入するなど現代のAmazon Web Service を彷彿とさせる描写がある点が相当面白かったからだ。計算機科学系の学生ならきっとドハマリするんじゃないだろうか。</p>
+<h2>10: 井上ひさし『吉里吉里人』</h2>
+<div class="amazlet-box" style="margin-bottom:0px;">
+<div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101168164/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51pT5chwwbL._SL160_.jpg" alt="吉里吉里人 (上巻) (新潮文庫)" style="border: none;" /></a>
+  </div>
+<div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
+<div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101168164/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">吉里吉里人 (上巻) (新潮文庫)</a>
+<div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
+        posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.13
+      </div>
+</p></div>
+<div class="amazlet-detail">
+      井上 ひさし <br />新潮社 <br />売り上げランキング: 17,796
+    </div>
+<div class="amazlet-sub-info" style="float: left;">
+<div class="amazlet-link" style="margin-top: 5px">
+        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101168164/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
+      </div>
+</p></div>
+</p></div>
+<div class="amazlet-footer" style="clear: left">
+  </div>
+</div>
+<p>これが一般にSF小説と認識されているかどうかわからないけれども、一応SFに関する賞を受賞しているようなのでリストに加えることにした。私がこの作品をニューロマンサーを抑えて10位にランクインさせたのは、自分が日本人であるとなんとなく納得している「原動力」は一体なんであり、なにが失われた時に吉里吉里人のような日本から離れようとする意識が生れるのかが書かれているところに非常に興味を覚えたからだ。その何となく自分が当たり前にしていた感覚にセンス・オブ・ワンダーを与えてくれたことに感謝したい。</p>
+<p>以下、11位以下のリストです。</p>
+<ul>
+<li>11: ウィリアム・ギブスン『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/415010672X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">ニューロマンサー</a>』(ウィリアム・ギブスン/著)</li>
+<li>12: チャイナ・ミエヴァル『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118353/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">都市と都市</a>』</li>
+<li>13: カート・ヴォネガット『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/415010302X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">スローターハウス5</a>』</li>
+<li>14: グレッグ・イーガン『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118264/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">プランク・ダイヴ (ハヤカワ文庫SF)</a>』</li>
+<li>15: ソタニスワフ・レム『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150102376/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank"></a>』</li>
+<li>16: ディック『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150102295/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">アンドロイドは電気羊の夢を見るか? </a>』</li>
+<li>17: 瀬名秀明『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4043405022/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">BRAIN VALLEY</a>』</li>
+<li>18: 円城塔『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4309021263/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">屍者の帝国</a>』</li>
+<li>19: 瀬名秀明『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4043405014/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">パラサイト・イヴ </a>』</li>
+<li>20: 上田早夕里『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/433474530X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">魚舟・獣舟</a>』</li>
+<li>21: 冲方丁『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150310149/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">マルドゥック・スクランブル</a>』</li>
+<li>22: 円城塔『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150310203/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">Boy’s Surface</a>』</li>
+<li>23: 円城塔『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150310629/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">後藤さんのこと</a>』</li>
+<li>24: ハインライン『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/415011742X/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">夏への扉</a>』(注3)</li>
+<li>25: 筒井康隆『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101171084/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">おれの血は他人の血</a>』</li>
+<li>26: カズオ・イシグロ『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4151200517/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">わたしを離さないで</a>』</li>
+<li>27: 宮部みゆき『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4198614423/dhatenanejpkuni-22/ref=nosim/" name="amazletlink" target="_blank">ドリームバスター</a>』</li>
+</ul>
+<p>(殿堂入り：星新一のショートショートだいたい全部)</p>
+<ul>
+<li>注1: SF小説かどうか微妙な場合には、SF関連の賞を受賞しているかを判断基準にしました</li>
+<li>注2: 注1の理論でいくと『図書館戦争』もSF小説だけど、あれはSFとしてよりエンタメ小説としての印象が強いので外しました</li>
+<li>注3: さんざん批判されている小説なので挙げるの迷ったのですが一応読んだので。実は子供の頃に翻案版を読んでから本編を読んだのでご都合主義があまり気にならなかったです。恐るべし刷り込み効果。</li>
+</ul>

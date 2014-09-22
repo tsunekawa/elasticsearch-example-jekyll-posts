@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Git勉強会のスライドを公開します
+author: kunimiya
+date: '2012-07-08 01:39:26 +0900'
+date_gmt: '2012-07-07 16:39:26 +0900'
+categories:
+- "『状況に埋め込まれたブログ』"
+tags:
+- git
+---
+<p>研究室内で自主的に行ったGit勉強会のスライドをスライドシェア上で公開しました。</p>
+<div id="__ss_13571056" style="width: 425px;"><strong style="display: block; margin: 12px 0 4px;"><a title="第1回Git勉強会" href="http://www.slideshare.net/kunimiya/1git">第1回Git勉強会</a></strong><object id="__sse13571056" width="425" height="355" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="wmode" value="transparent" /><param name="src" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=learninggit1-120707113515-phpapp02&amp;stripped_title=1git&amp;userName=kunimiya" /><param name="allowscriptaccess" value="always" /><param name="allowfullscreen" value="true" /><embed id="__sse13571056" width="425" height="355" type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=learninggit1-120707113515-phpapp02&amp;stripped_title=1git&amp;userName=kunimiya" allowFullScreen="true" allowScriptAccess="always" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" /></object></p>
+<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/kunimiya">kunimiya</a>.</div>
+</div>
+<p>いま見てみるといろいろ突っ込みどころがあって猛省したいところです。反省点としては、</p>
+<ul>
+<li>バックアップとバージョン管理を意図的に混ぜて説明しているためバージョン管理の説明が若干不適切</li>
+<li>ブランチの概念の説明を省略したために分かりづらい</li>
+<li>コミットして何が嬉しいのか分かりづらい</li>
+<li>楽しさ要素が無い</li>
+</ul>
+<p>というところでしょうか。</p>
+<p>第2回も開催する予定なので、改善したい所存です。</p>

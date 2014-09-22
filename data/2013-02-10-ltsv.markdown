@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: LTSVが便利そう
+author: kunimiya
+date: '2013-02-10 02:20:46 +0900'
+date_gmt: '2013-02-09 17:20:46 +0900'
+categories:
+- "『状況に埋め込まれたブログ』"
+tags:
+- ltsv
+---
+<ul>
+<li>Labeled Tab-separated Values
+<ul>
+<li><a href="http://ltsv.org/">http://ltsv.org/</a></li>
+</ul>
+</li>
+<li>【今北産業】3分で分かるLTSV業界のまとめ【LTSV】
+<ul>
+<li><a href="http://d.hatena.ne.jp/naoya/20130207/1360240992">http://d.hatena.ne.jp/naoya/20130207/1360240992</a></li>
+</ul>
+</li>
+</ul>
+<p>LTSVとは Labelled Tab Separated View の略で、つまるところラベルのついたTSVフォーマットらしい。もともとは、はてながサーバーのログフォーマットとして採用していたものが、元はてなの伊藤直也氏の熱烈な紹介によって急速に広まった。</p>
+<p>フォーマットの仕様は非常にシンプルだがCSVやTSVと違って列の位置やスキーマを厳密に考える必要がなく、パースが容易であるという点が圧倒的な価値を生んでいる。</p>
+<p>今はサーバーログとして注目されているが、これはスキーマが一筋縄ではいかない書誌や目録のエクスポート形式としても非常に価値があるのではないだろうか。例えば Next-L Enju では書誌のインポートとしてTSVフォーマットに対応しているが、LTSVでやり取りしたほうが読み込み失敗の恐れが少なくて済みそう。</p>
+<p>あとは研究データなどそれぞれスキーマの定義をするには面倒なデータのやり取りにも便利そう。</p>

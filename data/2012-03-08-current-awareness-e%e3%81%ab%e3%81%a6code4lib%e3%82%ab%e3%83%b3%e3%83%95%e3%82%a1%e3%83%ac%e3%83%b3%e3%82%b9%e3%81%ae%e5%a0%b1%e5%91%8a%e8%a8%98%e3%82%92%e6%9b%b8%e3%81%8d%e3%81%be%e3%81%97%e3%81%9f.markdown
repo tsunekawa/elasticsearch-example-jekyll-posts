@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Current Awareness-EにてCode4Libカンファレンスの報告記を書きました。
+author: kunimiya
+date: '2012-03-08 00:00:00 +0900'
+date_gmt: '2012-03-07 15:00:00 +0900'
+categories:
+- "図書館情報学を学ぶ (旧ブログ)"
+tags: []
+---
+<div class="section">
+<ul>
+<li> <a href="http://current.ndl.go.jp/e1270" target="_blank">E1270 - Code4Libカンファレンス2012が開催される＜報告＞ | カレントアウェアネス・ポータル</a></li>
+</ul>
+<p>2012年2月6日から9日に開催された <a href="http://code4lib.org/conference/2012" target="_blank">Code4Lib Conference 2012</a> に参加していました。ここ最近はその開催内容を紹介するプレゼンや記事を書いていました。上記カレントアウェアネスの記事はその１つです。</p>
+<p>その他にも<a href="http://www.code4lib.jp/" target="_blank">Code4Lib JAPAN</a>が開催したイベント「<a href="http://www.code4lib.jp/2012/02/947/" target="_blank">Code4Lib 参加報告会</a>」にて参加報告のプレゼンテーションを行いました。</p>
+<ul>
+<li><a href="http://www.code4lib.jp/2012/02/947/" target="_blank"><br />
+  【2012年3月5日（月）13:00-17:00】Code4Lib 2012参加報告会を開催します - Code4Lib JAPAN</a></li>
+<li><a href="http://www.slideshare.net/code4libjp/code4lib-conference-2012" target="_blank">Code4Lib Conference 2012 : 参加報告 (　常川真央 )</a></li>
+</ul>
+<p>また、図書館情報学チャンネルというU-Stream上の番組でもカンファレンスについて放談しました。</p>
+<ul>
+<li><a href="http://www.ustream.tv/recorded/20459406" target="_blank">第74回図書館情報学チャンネル</a></li>
+<li><a href="http://www.ustream.tv/recorded/20938530" target="_blank">第77回図書館情報学チャンネル</a></li>
+</ul>
+<p>よろしければご覧いただければと思います。</p>
+</div>
